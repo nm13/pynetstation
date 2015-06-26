@@ -1,0 +1,2 @@
+  * The quick way : use [the Perceptual Dynamics Lab contact form](http://pdl.brain.riken.jp/staff/email/?to=45) ( it is probably a good idea to add the word 'pynetstation' somewhere in the subject -- e.g. paste a link to the project page ).
+  * the standard way : log in using your Google account (provided that you have one), then click ["Issues"](https://code.google.com/p/pynetstation/issues/list) or write a letter Ж:-)
