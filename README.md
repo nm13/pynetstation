@@ -8,7 +8,11 @@ Besides been used by the author -- apparently it was successfully used at least 
 
 Since I don't yet have time to figure out linking between GitHub pages -- here are absolute URLs to the existed wiki :
 
- - wiki: [wiki](https://github.com/nm13/pynetstation/blob/wiki/ProjectHome.md)
- - wayback machine: [arhive.org](https://web.archive.org/web/20150626115249/https://code.google.com/p/pynetstation/wiki/ShortDescription)
+ - wiki: [wiki](https://github.com/nm13/pynetstation/blob/wiki/ProjectHome.md) -- this was automagically exported ;
+ - wayback machine: [archive.org](https://web.archive.org/web/20150626115249/https://code.google.com/p/pynetstation/wiki/ShortDescription) -- this may have better formatting .  
+ 
+
+
+ 
 
 
