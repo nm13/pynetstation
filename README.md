@@ -2,7 +2,7 @@
 
 A Python module to communicate with EGI NetStation, similar to C++ [libnetstation](http://code.google.com/p/libnetstation/) library.
 
-Besides been used by the author -- apparently it was successfully used at least in some student projects, completely without any intervention from the author ( I was not even aware of that then, actually ). So it still may be of some use.
+Besides been used by the author -- apparently it was successfully used at least in some student projects, completely without any intervention from my side ( I was not even aware of that then, actually ). So it still may be of some use.
 
 ----
 
