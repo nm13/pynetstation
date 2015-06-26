@@ -1,4 +1,4 @@
-A Python module to communicate with EGI NetStation, similar to C++ [libnetstation](http://code.google.com/p/libnetstation/) library .
+A Python module to communicate with EGI NetStation, similar to C++ [libnetstation](http://code.google.com/p/libnetstation/) library ( if that project will go down, see [www.andrewbutcher.net](http://www.andrewbutcher.net/) ) .
 
 As it is easier (for the price of writing less-efficient code) to do things in Python, we have full attribute support and two versions of the implementation -- one for simple "synchronous" communication -- and an "asynchronous" version that does all the communication in a separate thread .
 
