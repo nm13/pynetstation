@@ -21,6 +21,6 @@ And for the rest, especially for those whose native language is not Python, ther
   * [Examples](Examples.md)
   * [Screenshots](ExampleIllustrated.md)
   * [Reference](Reference.md)
-  * [Technical Details](TechnicalDetails.md)
+  * [Technical Details]
   * [Bugs or Netstation related issues](Bugs.md)
   * [Contacts](Contact.md)
